@@ -9,7 +9,7 @@ Current goals:
 - Test environments: QEMU, VirtualBox, VMware
 
 Repository layout (initial):
-- nanoid/              # Microkernel (Nanoid)
+- nanite/              # Microkernel (Nanite)
 - agi/                 # AGI/SLM integration and services
 - integration/         # Linux kernel patches and integration layer (do NOT vendor full kernel)
 - build/               # Build scripts and CI helpers
