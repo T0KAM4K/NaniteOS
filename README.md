@@ -1,5 +1,7 @@
 # NaniteOS
 
+![Crabbie(NaniteOS)](assets/IMG_0102.png)   
+
 A hybrid kernel operating system built with artificial general intelligence integration.
 
 Current goals:
